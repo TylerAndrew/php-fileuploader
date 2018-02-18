@@ -1,2 +1,2 @@
-# php-fileuploader
-Open Source PHP File Uploader 
+# jquery-fileuploader
+Open Source jquery File Uploader 
